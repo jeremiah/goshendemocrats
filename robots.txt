@@ -1,0 +1,19 @@
+# Robots.txt for jeremiahfoster.com
+# Time-stamp: "2015-11-27 22:46:30 jeremiah"
+
+User-agent: *
+Disallow: /genivi/
+
+User-agent: NPBot
+Disallow: /
+
+User-agent: psbot/0.1
+Disallow: /
+
+User-agent: Morfeus Fucking Scanner
+Disallow: /
+
+
+#User-agent: *
+#Disallow: /webalizer/
+# Disallow: /cgi-bin/ 
