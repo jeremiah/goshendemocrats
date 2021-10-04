@@ -443,11 +443,11 @@ img {
   text-decoration: none;
   display: block;
   padding: 1em;
-  color: white;
+  color: #000080;
 }
 
 .navigation a:hover {
-  background: #FFF;
+  background: #000080;
 }
 
 @media all and (max-width: 800px) {
