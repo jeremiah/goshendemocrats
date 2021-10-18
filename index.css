@@ -6,8 +6,8 @@
 	--nc-tx-1: #000000;
 	--nc-tx-2: #1A1A1A;
 	--nc-bg-1: #FFFFFF;
-	--nc-bg-2: #1565C0;
-	--nc-bg-3: #E5E7EB;
+	--nc-bg-2: #313c59;
+	--nc-bg-3: #f44c4d;
 	--nc-lk-1: #0070F3;
 	--nc-lk-2: #0366D6;
 	--nc-lk-tx: #FFFFFF;
@@ -168,7 +168,7 @@ blockquote *:last-child {
 
 header {
 	background: var(--nc-bg-2);
-	border-bottom: 0px solid var(--nc-bg-3);
+	border-bottom: 1em solid var(--nc-bg-3);
 	padding: 1rem 1.5rem;
 	
 	/* This sets the right and left margins to cancel out the body's
@@ -434,8 +434,8 @@ img {
   flex-flow: row wrap;
   justify-content: center;
   list-style: none;
-  margin: 0; 
-  background: #1565C0;
+  margin: 1em; 
+  background: #313c59;
 }
 
 .navigation a {
@@ -443,7 +443,7 @@ img {
   text-decoration: none;
   display: block;
   padding: 1em;
-  color: #fff;
+  color: #83c3ee;
 }
 
 .navigation a:hover {
