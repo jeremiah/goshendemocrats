@@ -342,7 +342,7 @@ dd::before {
 hr {
 	/* Reset the border of the <hr> separator, then set a better line */
 	border: 0;
-	border-bottom: 1px solid var(--nc-bg-3);
+	border-bottom: 1px solid var(--nc-bg-2);
 	margin: 1rem auto;
 }
 
