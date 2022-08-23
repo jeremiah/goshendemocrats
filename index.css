@@ -439,11 +439,12 @@ img {
 }
 
 .navigation a {
-  font-size: 120%;
-  text-decoration: none;
-  display: block;
-  padding: 1em;
-  color: #83c3ee;
+    font-size: 140%;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+    padding: 1em;
+    color: #83c3ee;
 }
 
 .navigation a:hover {
